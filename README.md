@@ -33,7 +33,7 @@ Intensive hands-on programme operating in a live cyber range environment with en
 ## Education
 
 **MSc Computer Networks and Systems Security** - University of Hertfordshire, UK (2022–2024)
-Thesis: SIEM Enhancement through Machine Learning
+Thesis: **[Security Onion SIEM + ML Detection](https://github.com/saitejach-Secops/Security-Onion-SIEM-ML-Detection)** (MSc Thesis)
 
 **B.Tech Electronics and Communication Engineering** - Presidency University, Bangalore (2018–2022)
 
