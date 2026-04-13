@@ -1,4 +1,4 @@
-# Sai Teja Ch
+# SaiTeja Ch
 
 Cybersecurity professional with 2 years of experience across SOC operations, threat hunting, and vulnerability management. MSc in Computer Networks & Systems Security from the University of Hertfordshire, UK. Worked as a Cybersecurity Analyst at OrionTechSpirits and completed an intensive cybersecurity internship at Log(N) Pacific's live cyber range programme working with the same enterprise tools used in production SOCs.
 
@@ -8,7 +8,7 @@ I don't just study security. I build, break, fix, automate, and document everyth
 
 ## Experience
 
-**Cybersecurity Analyst** · OrionTechSpirits, UK (Hybrid) · Jun 2023 – May 2024
+**Cybersecurity Analyst** · OrionTechSpirits, UK (Hybrid) · Jun 2023 - May 2024
 
 - Monitored security events and alerts using Microsoft Sentinel SIEM and Defender for Endpoint across the organization's infrastructure
 - Triaged malware, phishing, and suspicious authentication events from the alert queue
@@ -16,7 +16,7 @@ I don't just study security. I build, break, fix, automate, and document everyth
 - Reviewed firewall logs and IDS/IPS telemetry during daily monitoring and alert validation
 - Contributed to security documentation and compliance efforts aligned with ISO 27001 and NIST standards
 
-**Cybersecurity Analyst Intern - Cyber Range Programme** · Log(N) Pacific, USA (Remote) · May 2025 – April 2026
+**Cybersecurity Analyst Intern - Cyber Range Programme** · Log(N) Pacific, USA (Remote) · May 2025 - April 2026
 
 Intensive hands-on programme operating in a live cyber range environment with enterprise-grade security tools and simulated real-world attack scenarios.
 
