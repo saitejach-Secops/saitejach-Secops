@@ -69,7 +69,7 @@ Enhanced Security Onion SIEM with machine learning models - improved threat dete
 
 Investigated simulated enterprise breaches as part of community threat hunts using Microsoft Defender for Endpoint. The RDP compromise investigation covered 11 attack stages - brute-force initial access, PowerShell execution, credential dumping with Mimikatz, lateral movement, data exfiltration via Discord webhook, and anti-forensics log clearing. Produced full IR reports with KQL queries for every stage, MITRE ATT&CK mapping, IOC tables, attacker profiling, and detection recommendations.
 
-## [View Full Document](https://drive.google.com/file/d/1TUYB6gr97KfhvwVETU5mLkJLL2DqY5Zv/view))
+## [Threat Hunt Report](https://drive.google.com/file/d/1TUYB6gr97KfhvwVETU5mLkJLL2DqY5Zv/view)
 
 `KQL` · `Microsoft Defender for Endpoint` · `Incident Response` · `MITRE ATT&CK`
 
