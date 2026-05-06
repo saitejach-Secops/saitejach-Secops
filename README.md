@@ -1,6 +1,6 @@
 # SaiTeja Ch
 
-Cybersecurity professional with 2 years of experience across SOC operations, threat hunting, and vulnerability management. MSc in Computer Networks & Systems Security from the University of Hertfordshire, UK. Worked as a Cybersecurity Analyst at OrionTechSpirits and completed an intensive cybersecurity internship at Log(N) Pacific's live cyber range programme working with the same enterprise tools used in production SOCs.
+Cybersecurity professional with 2 years of experience across SOC operations, threat hunting, and vulnerability management. MSc in Computer Networks & Systems Security from the University of Hertfordshire, UK. Worked as a Cybersecurity Analyst at OrionTechSpirits and worked as a Cybersecurity Analyst at Log(N) Pacific, operating in a live cyber range environment with enterprise-grade security tools across SOC operations, vulnerability management, and threat hunting..
 
 I don't just study security. I build, break, fix, automate, and document everything I do.
 
@@ -16,7 +16,7 @@ I don't just study security. I build, break, fix, automate, and document everyth
 - Reviewed firewall logs and IDS/IPS telemetry during daily monitoring and alert validation
 - Contributed to security documentation and compliance efforts aligned with ISO 27001 and NIST standards
 
-**Cybersecurity Analyst Intern - Cyber Range Programme** · Log(N) Pacific, USA (Remote) · May 2025 - April 2026
+**Cybersecurity Analyst - Cyber Range Programme** · Log(N) Pacific, USA (Remote) · May 2025 - April 2026
 
 Intensive hands-on programme operating in a live cyber range environment with enterprise-grade security tools and simulated real-world attack scenarios.
 
@@ -85,18 +85,20 @@ Investigated simulated enterprise breaches as part of community threat hunts usi
 
 **Tools & Scripting** - KQL, PowerShell, Python, Azure Security, Windows & Linux
 
-**Frameworks** - MITRE ATT&CK, NIST (CSF, 800-53, 800-61), ISO 27001, DISA STIG, PCI-DSS, GDPR, IT Act 2000
+**Frameworks** - MITRE ATT&CK, NIST (CSF, 800-53, 800-61), ISO 27001, DISA STIG, CERT-In Guidelines, DPDP Act 2023, IT Act 2000
 
 ---
 
 ## Certifications
 
 Foundations of Cybersecurity - Google · Introduction to Cybersecurity - Cisco Networking Academy
+Security Analyst Level 1 (SAL1) - TryHackMe (In Progress)
+CompTIA Security+ (In progress)
 
 ---
 
 ## Let's Connect
 
-Open to SOC Analyst, Threat Hunting, Vulnerability Management and Cybersecurity Analyst roles.
+Based in Hyderabad, India | Immediate Joiner | Open to SOC Analyst, Threat Hunting, Vulnerability Management and Cybersecurity Analyst roles.
 
 [LinkedIn](https://www.linkedin.com/in/csai) · [GitHub](https://github.com/saitejach-Secops) · saitejach404@gmail.com
